@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Autonomous Car**
 
-- 🌱 I’m currently learning **Django,Digital Marketing**
+- 🌱 I’m currently learning **Django,IT automation**
 
 - 💬 Ask me about **Python, Machine Learning,C,C++**
 
