@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisch-mhrzn" alt="nisch-mhrzn" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **MERN project,Data Science Projects**
 
-- 🌱 I’m currently learning **Django,Data Science**
+- 🌱 I’m currently learning **API,Data Science**
 
 - 💬 Ask me about **Python, Machine Learning,C,C++**
 
