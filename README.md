@@ -1,7 +1,7 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3NDk5MzUsIm5iZiI6MTcwMTc0OTYzNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDA0MTM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4NjAwZDgyZjgxMGE4Nzk4YmMyNjQxMjBiM2M4NjEwNjNmYmNhMDY1MjJkMTk4OTcxMzY2ZGQwODNhODMxMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oekr8BOhRR1Bec3ps-ptUA8PakjeFVm_NcKC6PwGYA0)
 
 <h1 align="center">Hi 👋, I'm Nischal Maharjan</h1>
-<h3 align="center">A passionate Python Developer from Nepal</h3>
+<h3 align="center">A passionate Software Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisch-mhrzn&label=Profile%20views&color=0e75b6&style=flat" alt="nisch-mhrzn" /> </p>
 
